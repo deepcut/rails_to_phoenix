@@ -8,7 +8,7 @@ As you build more complex applications with Phoenix, you'll find yourself wantin
 
 * * *
 
-| Ruby/Rails | Elixir/Phoenix |
-| :------------- | :------------- |
-| [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) | [Arc](https://github.com/stavro/arc) |
-| [Faraday](https://github.com/lostisland/faraday)  | [Tesla](https://github.com/teamon/tesla) |
+| Ruby/Rails | Elixir/Phoenix | Category |
+| :--------- | :------------- | :------- |
+| [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) | [Arc](https://github.com/stavro/arc) | File upload |
+| [Faraday](https://github.com/lostisland/faraday)  | [Tesla](https://github.com/teamon/tesla) | HTTP client with support for middleware and multiple adapters |
