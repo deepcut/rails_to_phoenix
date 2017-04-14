@@ -12,4 +12,4 @@ As you build more complex applications with Phoenix, you'll find yourself wantin
 | :--------- | :------------- | :------- |
 | [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) | [Arc](https://github.com/stavro/arc) | File upload |
 | [Faraday](https://github.com/lostisland/faraday)  | [Tesla](https://github.com/teamon/tesla) | HTTP client with support for middleware and multiple adapters |
-| [Feedjira](https://github.com/feedjira/feedjira) | [FeederEx](https://github.com/manukall/feeder_ex) | RSS parsing |
+| [Feedjira](https://github.com/feedjira/feedjira) | [Elixir Feed Parser](https://github.com/fdietz/elixir-feed-parser) | RSS parsing |
