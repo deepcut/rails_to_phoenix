@@ -1,4 +1,4 @@
-# Rails to Phoenix
+# Ruby to Elixir
 
 _Find equivalents for Elixir packages you're used to back in your Ruby on Rails days_
 
